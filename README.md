@@ -1,4 +1,4 @@
-### Hi! 👋 I'm a student, currently learning about basics of CS and starting out with Python as my first language. I'd love to collaborate on projects soon!
+### Hi! 👋 I'm a student, currently learning about basics of CS and starting out with Python as my first language.
 <!--
 **flora515/flora515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
