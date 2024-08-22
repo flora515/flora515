@@ -1,5 +1,4 @@
-### Hi! 👋 I'm a student, currently learning about basics of CS and starting out with Python as my first language.
-<!--
+### master's student in Social and Economic Data Science | exploring social dynamics for sustainable development
 **flora515/flora515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
